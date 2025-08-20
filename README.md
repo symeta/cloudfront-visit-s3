@@ -5,7 +5,7 @@
 > create a s3 bucket in us-east-1 region, the name of the s3 bucket is custcardimg, there are prefixes of this bucket, the first one is 2025-08-15, under it is 6489925, please create the s3 bucket, and all of these prefixes
 
 > I'll create the S3 bucket "custcardimg" in us-east-1 region, create the folder 
-structure, and upload an image with the specified name.
+structure
 ```
 
 ## manual action 1
