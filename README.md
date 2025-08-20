@@ -125,9 +125,16 @@ aws cloudfront get-distribution --id E2IO1Q24R1YXM2
 ```
 
 # The achievement show case
+
 <img width="1061" height="586" alt="Screenshot 2025-08-20 at 20 21 28" src="https://github.com/user-attachments/assets/08fd8837-349a-46b6-91ad-9cabf8dc47e0" />
 
+## CloudFront URL: 
 <img width="1373" height="1280" alt="Screenshot 2025-08-20 at 20 23 32" src="https://github.com/user-attachments/assets/3eb9d4ab-e8af-49dd-86b0-b1fb5f456e9e" />
 
 <img width="1364" height="1108" alt="Screenshot 2025-08-20 at 20 24 03" src="https://github.com/user-attachments/assets/27f2ab7f-02fc-4cdb-a137-43ca97718b1d" />
+
+## Direct S3 URL
+![Screenshot 2025-08-20 at 20 25 42](https://github.com/user-attachments/assets/79a75bbe-8684-4aed-9f14-fa3292385bde)
+<img width="1374" height="1086" alt="Screenshot 2025-08-20 at 20 27 37" src="https://github.com/user-attachments/assets/dc21cf1c-cede-4762-8054-1dda4764996c" />
+
 
