@@ -1,7 +1,7 @@
 # why a readme-update is needed
 s3 bucket open to public has potential risk. This doc aims at achieving s3 bucket visitable through cloudfront with its 'Block public access' setting unchanged.
 
-## q cli communication details
+# q cli communication details
 ```sh
 > how to make https://d16skucdsp586j.cloudfront.net/2025-08-15/6489925/card_faceId_6489925_005920496.jpeg browser visitable?
 
@@ -467,7 +467,7 @@ curl -I "https://d16skucdsp586j.cloudfront.net/2025-08-15/6489925/card_faceId_64
 The image should now be accessible through CloudFront while maintaining 
 security best practices.
 ```
-## Achievement show case
+# Achievement show case
 ```sh
 weishiyang@loaclhost ~ % curl -I "https://d16skucdsp586j.cloudfront.net/2025-08-15/6489925/card_faceId_6489925_005920496.jpeg"
 HTTP/2 200 
