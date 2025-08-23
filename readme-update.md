@@ -1,4 +1,5 @@
-# s3 bucket open to public has potential risk. This doc aims at achieving s3 bucket visitable through cloudfront with its 'Block public access' setting unchanged.
+# why a readme-update is needed
+s3 bucket open to public has potential risk. This doc aims at achieving s3 bucket visitable through cloudfront with its 'Block public access' setting unchanged.
 
 ## q cli communication details
 ```sh
