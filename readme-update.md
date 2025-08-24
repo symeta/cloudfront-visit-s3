@@ -1,6 +1,10 @@
 # why a readme-update is needed
 s3 bucket open to public has potential risk. This doc aims at achieving s3 bucket visitable through cloudfront with its 'Block public access' setting unchanged.
 
+# pre-requisite
+<img width="1171" height="414" alt="Screenshot 2025-08-24 at 17 05 18" src="https://github.com/user-attachments/assets/26ca49b5-e0ea-4ddf-895b-82e741eaad57" />
+
+
 # q cli communication details
 ```sh
 > how to make https://d16skucdsp586j.cloudfront.net/2025-08-15/6489925/card_faceId_6489925_005920496.jpeg browser visitable?
